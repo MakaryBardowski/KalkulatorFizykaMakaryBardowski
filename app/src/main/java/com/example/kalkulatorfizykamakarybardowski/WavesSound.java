@@ -4,23 +4,18 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.Menu;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity {
+public class WavesSound extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-        setTitle(R.string.menu_main);
-
-
+        setContentView(R.layout.activity_waves_sound);
     }
 
-    public void ChooseClassicalMechanics(View view){
-        Intent intent = new Intent(this, MenuClassicalMechanics.class);
+    public void ChooseReminder(View view){
+        Intent intent = new Intent(this,WavesSoundReminder.class);
         startActivity(intent);
         finish();
     }

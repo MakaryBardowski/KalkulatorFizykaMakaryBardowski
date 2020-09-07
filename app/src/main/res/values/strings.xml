@@ -3,4 +3,6 @@
     <string name="classical_mechanics">Classical Mechanics</string>
     <string name="test_key_empty">Empty Category</string>
     <string name="menu_main">Main Menu</string>
+    <string name="classical_mechanics_waves">Waves</string>
+    <string name="waves_sound">Sound</string>
 </resources>

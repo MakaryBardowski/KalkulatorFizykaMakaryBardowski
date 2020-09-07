@@ -9,6 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".WavesSoundReminder"></activity>
+        <activity android:name=".Waves" />
+        <activity android:name=".WavesSound" />
+        <activity android:name=".MenuClassicalMechanics" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
