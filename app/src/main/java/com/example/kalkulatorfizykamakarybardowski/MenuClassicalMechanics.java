@@ -17,6 +17,6 @@ public class MenuClassicalMechanics extends AppCompatActivity {
     public void ChooseWaves(View view){
         Intent intent = new Intent(this, Waves.class);
         startActivity(intent);
-        finish();
+//        finish();
     }
 }

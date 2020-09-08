@@ -17,6 +17,6 @@ public class Waves extends AppCompatActivity {
     public void ChooseSound(View view){
         Intent intent = new Intent(this, WavesSound.class);
         startActivity(intent);
-        finish();
+//        finish();
     }
 }

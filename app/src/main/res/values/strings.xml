@@ -5,4 +5,16 @@
     <string name="menu_main">Main Menu</string>
     <string name="classical_mechanics_waves">Waves</string>
     <string name="waves_sound">Sound</string>
+    <string name="waves_sound_lambda">λ =</string>
+    <string name="waves_lambda_input">Wpisz λ</string>
+    <string name="waves_wave_velocity">V =</string>
+    <string name="waves_wave_period">T =</string>
+    <string name="waves_wave_velocity_input">Wpisz V</string>
+    <string name="waves_period_input">Wpisz T</string>
+    <string name="waves_frequency">F (źr) =</string>
+    <string name="waves_frequency_input">wpisz F (źr)</string>
+    <string name="calculate">Policz</string>
+    <string name="waves_lambda_tip">Jeśli źródło oddala się od obserwatora</string>
+    <string name="waves_lambda_tip1">Jeśli źródło przybliża się do obserwatora</string>
+    <string name="waves_wave_velocity_source">V (źr) =</string>
 </resources>
